@@ -30,7 +30,7 @@ MQ-5 LPG Gas Sensor
  Gas Level Analysis
          │
          ▼
- ┌─────────────┬─────────────┬─────────────┐
+ ┌─────────────┬────────
  │             │             │
  ▼             ▼             ▼
 Buzzer      LCD Display   Servo Motor
